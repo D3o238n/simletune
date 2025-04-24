@@ -1,5 +1,5 @@
-const clientId = '6ff93fcb64514f0aa4f132f15f3a7592'; 
-const clientSecret = '62c2e51b30f34ecc8e19db2862de91fc'; 
+const clientId = 'YOUR_ID'; 
+const clientSecret = 'YOUR_SECRET'; 
 
 export const getSpotifyToken = async () => {
   try {
